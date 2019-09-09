@@ -1,3 +1,3 @@
 # cs349homework1
-Student name: Trong tO 
+Student name: Trong To 
 cs 349
